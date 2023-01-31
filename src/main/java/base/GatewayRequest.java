@@ -7,8 +7,8 @@ import controllers.UserService;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
+import services.delete.DeleteReq;
 import services.posts.CategoryReq;
-import services.posts.DeleteReq;
 import services.posts.GetSingleProductReq;
 import services.posts.GetSingleProductResp;
 import services.users.GetSingleUserReq;
@@ -79,6 +79,5 @@ public class GatewayRequest {
         new HttpDispatcher().send(this);
         return this;
     }
-
 
 }

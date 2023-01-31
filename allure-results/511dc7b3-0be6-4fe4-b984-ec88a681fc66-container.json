@@ -1,0 +1,1 @@
+{"uuid":"511dc7b3-0be6-4fe4-b984-ec88a681fc66","name":"services.query.posts.CreateProduct","children":["07709539-5256-418e-bf85-82e352e1329d"],"befores":[{"name":"beforeClassSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675177490311,"stop":1675177490312}],"afters":[],"start":1675177490270,"stop":1675177509066}

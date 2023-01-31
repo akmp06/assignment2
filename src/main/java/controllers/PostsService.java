@@ -1,7 +1,11 @@
 package controllers;
 
 import base.GatewayRequest;
+import services.cart.GetAllCartsReq;
+import services.cart.GetAllCartsResp;
+import services.delete.DeleteReq;
 import services.posts.*;
+
 
 public class PostsService {
     private GatewayRequest gatewayRequest;

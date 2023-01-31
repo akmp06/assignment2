@@ -1,0 +1,1 @@
+{"uuid":"8b7a6440-c7c1-42e0-a76a-e4e295315d48","name":"services.query.delete.Delete","children":["747f7920-7274-4f40-b15f-43bae134f468"],"befores":[{"name":"beforeClassSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675177404412,"stop":1675177404413}],"afters":[],"start":1675177404369,"stop":1675177406167}
