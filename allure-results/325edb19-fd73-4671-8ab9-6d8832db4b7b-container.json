@@ -1,0 +1,1 @@
+{"uuid":"325edb19-fd73-4671-8ab9-6d8832db4b7b","name":"services.jsonplaceholder.posts.Delete","children":["eaa27694-1efe-48b5-935a-fa3ba239a991"],"befores":[{"name":"beforeClassSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1675146457309,"stop":1675146457310}],"afters":[],"start":1675146457267,"stop":1675146460836}

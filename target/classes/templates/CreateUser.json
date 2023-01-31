@@ -1,0 +1,20 @@
+{
+  "email":"peyal@gmail.com",
+  "username":"akmp",
+  "password":"m38rmF$aas",
+  "name":{
+    "firstname":"ak",
+    "lastname":"mp"
+  },
+  "address":{
+    "city":"coole",
+    "street":"new road",
+    "number":3,
+    "zipcode":"12-374",
+    "geolocation":{
+      "lat":"-37.59",
+      "long":"1.146"
+    }
+  },
+  "phone":"00000000000"
+}
